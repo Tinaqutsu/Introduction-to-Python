@@ -1,5 +1,4 @@
-# Introduction-to-Python
-# Python Programming Topics
+# Python
 
 ## Introduction to Python
 
